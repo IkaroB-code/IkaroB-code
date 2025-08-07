@@ -1,12 +1,12 @@
 <h1 align="center">Ikaro B. Oliveira</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack · Professor de TI · Especialista em Produto Digital
+  
 </p>
 
 ---
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ---
 
